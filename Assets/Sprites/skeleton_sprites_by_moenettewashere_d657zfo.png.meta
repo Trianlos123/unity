@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: 03d83161e9f1f184dae6cf3b78bee726
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3237934039434625272
+    second: skeleton_sprites_by_moenettewashere_d657zfo_0
+  - first:
+      213: -4010799572173236179
+    second: skeleton_sprites_by_moenettewashere_d657zfo_1
+  - first:
+      213: 6360776609718088819
+    second: skeleton_sprites_by_moenettewashere_d657zfo_2
+  - first:
+      213: 101425603479598576
+    second: skeleton_sprites_by_moenettewashere_d657zfo_3
+  - first:
+      213: -4803514219704826733
+    second: skeleton_sprites_by_moenettewashere_d657zfo_4
+  - first:
+      213: -8727842684333725206
+    second: skeleton_sprites_by_moenettewashere_d657zfo_5
+  - first:
+      213: 4476779198781244892
+    second: skeleton_sprites_by_moenettewashere_d657zfo_6
+  - first:
+      213: 398260070601725618
+    second: skeleton_sprites_by_moenettewashere_d657zfo_7
+  - first:
+      213: 410508760032332396
+    second: skeleton_sprites_by_moenettewashere_d657zfo_8
+  - first:
+      213: -8759731347007323110
+    second: skeleton_sprites_by_moenettewashere_d657zfo_9
+  - first:
+      213: -6326657606650436696
+    second: skeleton_sprites_by_moenettewashere_d657zfo_10
+  - first:
+      213: -2692224235881554232
+    second: skeleton_sprites_by_moenettewashere_d657zfo_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeleton_sprites_by_moenettewashere_d657zfo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5f7d5d4874d474a969e7a99a187e9b
+      internalID: -3237934039434625272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_sprites_by_moenettewashere_d657zfo_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 146
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3660e09c209b1de458ef3010a4ca37b5
+      internalID: -4010799572173236179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_sprites_by_moenettewashere_d657zfo_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 146
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092a546d321cd5c418ba02568b4373f3
+      internalID: 6360776609718088819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_sprites_by_moenettewashere_d657zfo_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f600cac1937924d88407fc13871ec5
+      internalID: 101425603479598576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_sprites_by_moenettewashere_d657zfo_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 98
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01dd08a0d9acba42adb87bba462b7b7
+      internalID: -4803514219704826733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_sprites_by_moenettewashere_d657zfo_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 98
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a068f438411e6438c4ee895330ae9a
+      internalID: -8727842684333725206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_sprites_by_moenettewashere_d657zfo_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49.75
+        width: 30.666666
+        height: 49.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d851818bf4d4c4d90cbd6b1d904828
+      internalID: 4476779198781244892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_sprites_by_moenettewashere_d657zfo_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 49.75
+        width: 30.666666
+        height: 49.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69244c170232dd94596b8704ea96895e
+      internalID: 398260070601725618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_sprites_by_moenettewashere_d657zfo_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 49.75
+        width: 30.666666
+        height: 49.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebc18d7b5c079b44983809d203104a9
+      internalID: 410508760032332396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_sprites_by_moenettewashere_d657zfo_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 30.666666
+        height: 49.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf9c009f51bde04b87823a6063b3580
+      internalID: -8759731347007323110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_sprites_by_moenettewashere_d657zfo_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0.75
+        width: 30.666666
+        height: 49.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e53fcfc4c6827943a79e88144f52108
+      internalID: -6326657606650436696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_sprites_by_moenettewashere_d657zfo_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0.75
+        width: 30.666666
+        height: 49.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3a6c7c57201b5469bf04dee33d4bc7
+      internalID: -2692224235881554232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 31a3fbdd070d33d49ac687548e7cb3ec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
